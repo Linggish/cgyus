@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Jom Masuk Dagang</title>  
+    <title>hye</title>  
   </head>   
     
  <body>
@@ -8,8 +8,8 @@
      
      <table width="75%" border="2">
        <tr>
-       <th width="20%"><img src="images/kvpjb.png" width="100%"></th>
-         <th><font size="50%">My First Web</font></th>
+       <th width="20%"><img src="images/AVENGERS.jpeg" width="100%"></th>
+         <th><font size="50%">THA AVENGERS</font></th>
        </tr>
      </table>
      
@@ -18,13 +18,13 @@
      <table width="75%" border="5">
        <tr>
          <td>
-           <a href="index.html"><button>UTAMA</button></a>
+           <a href="index.html"><button>HOME</button></a>
            &nbsp;
-           <a href="jommasukdagang.html"><button>JOM MASUK DAGANG</button></a>
+           <a href="jommasukdagang.html"><button>HYE</button></a>
            &nbsp;
-           <a href="tentangsaya.html"><button>TENTANG SAYA</button></a>
+           <a href="tentangsaya.html"><button>ABT ME</button></a>
            &nbsp;
-           <a href="hubungisaya.html"><button>HUBUNGI SAYA</button></a
+           <a href="hubungisaya.html"><button>CONTACT ME</button></a>
           </td>
          </tr>           
         </table>            
@@ -32,9 +32,10 @@
         <br>
           <table width="75%">        
          <tr>
-           <td align="center">
-             <img src="images/poster.jpg" width="30%">
-            </td>
+           <td align="center"><marquee>
+             <img src="images/FULLAVENGERS.jpeg" width="30%">
+         </marquee>   
+           </td>
            </tr>
           </table>
      
@@ -42,7 +43,7 @@
      
       <table width="75%" border="2">
        <tr>
-         <th>&#169;2021 Kolej Vokasional Perdagangan, Johor</th>
+         <th>&#169;WEYH LUPIN MARILAH KVPJB</th>
        </tr>
      </table> 
      
